@@ -1,2 +1,2 @@
-read me readme readme readme readme readme readme readme readme:wq
-q
+Git is a distributed version control system
+Git is free software.
